@@ -1,3 +1,5 @@
 function test() {
-  console.log(test)
+  var a = "a";
+  console.log(test);
+
 }
